@@ -1,6 +1,4 @@
 ﻿  CSVReader.cpp
-c:\tophermcdonalddev\github\c++\thebox\csvreader\csvreader\csvreader.cpp(59): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-c:\tophermcdonalddev\github\c++\thebox\csvreader\csvreader\csvreader.cpp(65): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  main.cpp
-  Generating Code...
+c:\tophermcdonalddev\github\c++\thebox\csvreader\csvreader\csvreader.cpp(60): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\tophermcdonalddev\github\c++\thebox\csvreader\csvreader\csvreader.cpp(66): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   CSVReader.vcxproj -> C:\topherMcDonaldDev\GitHub\C++\theBox\CSVReader\x64\Debug\CSVReader.exe
