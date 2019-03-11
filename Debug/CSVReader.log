@@ -1,0 +1,4 @@
+﻿  CSVReader.cpp
+c:\users\chris.mcdonald\source\repos\csvreader\csvreader\csvreader.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris.mcdonald\source\repos\csvreader\csvreader\csvreader.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  CSVReader.vcxproj -> C:\topherMcDonaldDev\GitHub\C++\theBox\Debug\CSVReader.exe
